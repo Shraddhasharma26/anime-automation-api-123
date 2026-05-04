@@ -5,7 +5,7 @@ This project is related to automating the backend api response
 1. API used : Restful API
 2. Language : Javascript
 3. Framework : BDD cucumber , POM
-4. Test runner : playwright
+4. Test runner : Playwright
 
 **#Setup Process:**
 1. Installed node :npm init -y , npm install 
